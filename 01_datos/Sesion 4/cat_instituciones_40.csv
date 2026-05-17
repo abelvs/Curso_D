@@ -1,0 +1,56 @@
+"sector","entidad","nombre_entidad","grupo","nombre_grupo","orden"
+40,"5","Total Banca Múltiple",5,"Total Banca Múltiple",1
+40,"040002","Banamex",59,"G-7",2
+40,"040012","BBVA México",59,"G-7",3
+40,"040014","Santander",59,"G-7",4
+40,"040021","HSBC",59,"G-7",5
+40,"040036","Inbursa",59,"G-7",6
+40,"040044","Scotiabank",59,"G-7",7
+40,"040072","Banorte",59,"G-7",8
+40,"040112","Monex",60,"Bancos Cambiarios",9
+40,"040136","Intercam Banco",60,"Bancos Cambiarios",10
+40,"040143","CIBanco",60,"Bancos Cambiarios",11
+40,"040145","Banco Base",60,"Bancos Cambiarios",12
+40,"040059","Invex",61,"Inversión y Servicios Financieros",13
+40,"040062","Afirme",61,"Inversión y Servicios Financieros",14
+40,"040103","American Express",61,"Inversión y Servicios Financieros",15
+40,"040106","Bank of America",61,"Inversión y Servicios Financieros",16
+40,"040108","MUFG Bank",61,"Inversión y Servicios Financieros",17
+40,"040110","J.P. Morgan",61,"Inversión y Servicios Financieros",18
+40,"040124","Citi México",61,"Inversión y Servicios Financieros",19
+40,"040126","Credit Suisse",61,"Inversión y Servicios Financieros",20
+40,"040129","Barclays",61,"Inversión y Servicios Financieros",21
+40,"040139","BIAfirme",61,"Inversión y Servicios Financieros",22
+40,"040148","Pagatodo",61,"Inversión y Servicios Financieros",23
+40,"040160","Banco S3",61,"Inversión y Servicios Financieros",24
+40,"040164","BNP Paribas México",61,"Inversión y Servicios Financieros",25
+40,"040030","Banco del Bajío",62,"Comercial Mediano",26
+40,"040042","Banca Mifel",62,"Comercial Mediano",27
+40,"040058","Banregio",62,"Comercial Mediano",28
+40,"040113","Ve por Más",62,"Comercial Mediano",29
+40,"040132","Multiva",62,"Comercial Mediano",30
+40,"040156","Sabadell",62,"Comercial Mediano",31
+40,"040060","Bansí",63,"Comercial Pequeño",32
+40,"040128","Kapital (Antes Autofin)",63,"Comercial Pequeño",33
+40,"040133","Actinver",63,"Comercial Pequeño",34
+40,"040138","Ualá",63,"Comercial Pequeño",35
+40,"040147","Bankaool",63,"Comercial Pequeño",36
+40,"040150","Inmobiliario Mexicano",63,"Comercial Pequeño",37
+40,"040151","Dondé Banco",63,"Comercial Pequeño",38
+40,"040152","Bancrea",63,"Comercial Pequeño",39
+40,"040154","Covalto",63,"Comercial Pequeño",40
+40,"040155","ICBC",63,"Comercial Pequeño",41
+40,"040157","Shinhan",63,"Comercial Pequeño",42
+40,"040158","Mizuho Bank",63,"Comercial Pequeño",43
+40,"040159","Bank of China",63,"Comercial Pequeño",44
+40,"040162","KEB Hana México",63,"Comercial Pequeño",45
+40,"040127","Banco Azteca",64,"Créditos a los Hogares",46
+40,"040130","Compartamos",64,"Créditos a los Hogares",47
+40,"040137","Bancoppel",64,"Créditos a los Hogares",48
+40,"040140","Consubanco",64,"Créditos a los Hogares",49
+40,"040141","Volkswagen Bank",64,"Créditos a los Hogares",50
+40,"040149","Banfeliz (Antes Forjadores)",64,"Créditos a los Hogares",51
+40,"040165","Banco Bineo",64,"Créditos a los Hogares",52
+40,"040167","Hey Banco",64,"Créditos a los Hogares",53
+40,"040169","Openbank",64,"Créditos a los Hogares",54
+40,"040170","Revolut Bank",64,"Créditos a los Hogares",55
