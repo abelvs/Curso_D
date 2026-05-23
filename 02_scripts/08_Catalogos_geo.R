@@ -9,7 +9,7 @@ options(scipen = 999)
 cat_loc <- fread("01_datos/Sesion 4/AGEEML_20264121939532.csv",
                  encoding = "Latin-1") %>% 
   clean_names() %>% 
-  mutate(across(c(contains("pob_"), total_de_viviendas_habitadas), as.numeric)) 
+    mutate(across(c(contains("pob_"), total_de_viviendas_habitadas), as.numeric)) 
 
 glimpse(cat_loc)
 
